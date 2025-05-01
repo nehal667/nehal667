@@ -21,8 +21,18 @@ Aspiring AI and Machine Learning Engineer | Passionate about building intelligen
 
 #### 🛠️ Projects:
 
-* **AI Body Language Detector:** Real-time body language and facial expression analysis using MediaPipe and OpenCV. [Link to Repository - *If available, add the link here*]
-* **University Policy Question-Answering System:** Conversational AI application leveraging Gemini API and LangChain for answering policy-related queries from PDF documents. [Link to Repository - *If available, add the link here*]
+* **AI Body Language Detector 
+Developed a real-time body language and facial expression detection system. Used MediaPipe and OpenCV. Trained predictive models with scikit-learn for emotion classification.
+  
+University Policy Question - Answering System 
+Developed a PDF Processing and Conversational AI Application. Utilized Streamlit, PyPDF2, and LangChain for text extraction and chunking. Integrated Gemini API for enhanced response accuracy.
+  
+Movie Recommendation System 
+Developed a movie recommendation system using Streamlit. Leveraged a content-based filtering model. Used The Movie Database API for movie titles and poster retrieval. Used pickle files for similarity calculations.
+  
+AI Smart PDF Summarizer 
+Developed a document summarization web app using Streamlit and LangChain. Supports PDF, DOCX, TXT, and other text-based files.
+Leveraged OpenAI's language models. Engineered modular components for document parsing, token management, and language generation.
 
 #### Connect with me:
 
