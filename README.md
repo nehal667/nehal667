@@ -11,7 +11,8 @@ Aspiring AI and Machine Learning Engineer | Passionate about building intelligen
 
 #### 🌱 Skills:
 
-**Languages:** Python, MySQL
+**Languages:** Python, MySQL, Figma, Cloud (SaaS Platforms: Workday, SuccessFactors), DBMS(Data Base
+ Management System), Data Structures.
 
 **Machine Learning:** Pandas, NumPy, NLP, Matplotlib, TensorFlow, OpenCV, Gemini API, RAG, Langchain, LangGraph
 
