@@ -26,16 +26,6 @@ Aspiring AI and Machine Learning Engineer | Passionate about building intelligen
 
 #### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Nehal-Padalkar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nehal-padalkar-82b898234/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/NehalPadalkar)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail)](mailto:nehalpadalkar331@gmail.com)
-
----
-
-📊 **GitHub Stats:**
-
-[![NehalPadalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NehalPadalkar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehalPadalkar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
