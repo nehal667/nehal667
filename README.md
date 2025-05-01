@@ -51,9 +51,3 @@ Developed a document summarization web app using Streamlit and LangChain. Suppor
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail)](mailto:nehalpadalkar331@gmail.com)
 
 ---
-
-📊 **GitHub Stats:**
-
-[![NehalPadalkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NehalPadalkar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehalPadalkar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
