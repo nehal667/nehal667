@@ -46,7 +46,7 @@ Developed a document summarization web app using Streamlit and LangChain. Suppor
 #### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nehal-padalkar-82b898234/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/NehalPadalkar)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/nehal667)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail)](mailto:nehalpadalkar331@gmail.com)
 
 ---
